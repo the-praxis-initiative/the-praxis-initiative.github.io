@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# PRAXIS
+## The Semantic Web in Practice: Tools and Pedagogy
+### Topics
+* Academia x Pedagogy 
+    * Course materials for teaching a SWT class
+    * Tutorials, exercises, references, lectures, etc.
+    * Course Formats (e.g. MOOC, SCALE-UP)
+* Academia x Tools
+    * Design and efficacy of "teaching tools" 
+    * What are and how can we make effective, usable tools?
+* Industry x Pedagogy
+    * “Semantic Web Technologies for the Masses”
+    * Approachable knowledge graphs
+    * Seminar skeletons
+* Industry x Tools
+    * Tool demos, emphasizing usability and approachability
 
-You can use the [editor on GitHub](https://github.com/cogan-shimizu-wsu/PRAXIS/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Submissions
+* Single-page abstracts
+* Short position papers (max. 4 pages)
+* Implementation reports (max. 4 pages)
+* Tool demonstrations
+* Slides 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Important Dates
+Submission deadline: June 30, 2020
 
-### Markdown
+Notification of Acceptance: August 3, 2020
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Camera-ready version deadline: September 2, 2020
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cogan-shimizu-wsu/PRAXIS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The workshop will be held on November 2 or 3, 2020
