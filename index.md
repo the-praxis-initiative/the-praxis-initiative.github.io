@@ -30,3 +30,21 @@ Notification of Acceptance: August 3, 2020
 Camera-ready version deadline: September 2, 2020
 
 The workshop will be held on November 2 or 3, 2020
+
+### Program Comittee
+* Michelle Cheatham
+* Oscar Corcho
+* Karl Hammar
+* Raghava Muthjaru
+* Valentina Anita Carriero
+* Kamruzzaman Sarker
+* Daniel Lupp
+* Martin Skjaeveland
+* Maria Keet
+* Uli Sattler
+* Monireh Ebrahimi
+* Lu Zhou
+* Ruben Taelman
+* Ernesto Jimenez-Ruiz
+* Mari Carmen Suarez-Figueroa
+* Paul Groth
