@@ -1,4 +1,6 @@
 # The Semantic Web in Practice: Tools and Pedagogy
+We invite submissions to the 1st Workshop on the Semantic Web in Practice: Tools and Pedagogy (PRAXIS) colocated with the International Semantic Web Conference (ISWC) that will take place in Athens, Greece from November 2nd to 6th, 2020. PRAXIS is a full-day workshop consisting of short presentations or reports on experiential teaching results, tool demonstrations, and positioning, followed by rigorous break-out sessions. Additional information can be found at www.praxis-workshop.com/ .
+
 The overarching purpose of this workshop is to start a community that is focused on the collection, development, and curation of pedagogical best practices, and the tools that support them, for the Semantic Web and Knowledge Graph communities. More concretely, we wish to:
 
 * Find effective ways of expanding the expertise and knowledge of:
@@ -11,7 +13,7 @@ The overarching purpose of this workshop is to start a community that is focused
 
 Submissions should pertain to the topics below, with the intent to meet the goals, as above.
 
-## Topics
+### Topics
 * Academia x Pedagogy
     * Course Design
         * Materials (e.g. tutorials, exercises, references, lectures)
@@ -29,9 +31,9 @@ Submissions should pertain to the topics below, with the intent to meet the goal
     * Improving Developer Experience (DX)
     * Tool demos, emphasizing usability and approachability
 
-## Submissions
+### Submissions
 * Abstracts (max 1 page / 500 words)
-* Reports (max 4 pages, LNCS)
+* Reports (max 4 pages)
     * Positioning
     * Implementation
     * Demonstrations
@@ -42,19 +44,20 @@ Submissions should pertain to the topics below, with the intent to meet the goal
 
 Submissions should be formatted as either PDF or HTML and submitted to: https://easychair.org/conferences/?conf=praxis2020 
 
-## Important Dates
-Submission deadline: June 30, 2020
+
+### Important Dates
+Submission deadline: July 1, 2020
 Notification of Acceptance: August 3, 2020
 Camera-ready version deadline: September 2, 2020
 The workshop will be held on November 2 or 3, 2020
 
-## Organizers
+### Organizers
 Cogan Shimizu (general chair)
 Rafael Gonçalves (chair)
 Juan Sequeda (chair)
 Ruben Verborgh (chair)
 
-## Program Committee
+### Program Committee
 * Michelle Cheatham
 * Oscar Corcho
 * Karl Hammar
