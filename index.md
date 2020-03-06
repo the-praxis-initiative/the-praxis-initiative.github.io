@@ -44,6 +44,8 @@ Submissions should pertain to the topics below, with the intent to meet the goal
 
 Submissions should be formatted as either PDF or HTML and submitted to: https://easychair.org/conferences/?conf=praxis2020 
 
+### Proceedings
+Submissions will be reviewed by at least three reviewers. While we do not intend to publish through CEUR-WS, we will collect all accepted submissions and provide them as release on the workshop webpage. Further, we will register the release through Zenodo to provide a DOI.
 
 ### Important Dates
 Submission deadline: July 1, 2020
