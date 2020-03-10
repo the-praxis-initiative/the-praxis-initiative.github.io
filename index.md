@@ -1,9 +1,9 @@
 # The Semantic Web in Practice: Tools and Pedagogy
-We invite submissions to the 1st Workshop on the Semantic Web in Practice: Tools and Pedagogy (PRAXIS) colocated with the International Semantic Web Conference (ISWC) that will take place in Athens, Greece from November 2nd to 6th, 2020. PRAXIS is a full-day workshop consisting of short presentations or reports on experiential teaching results, tool demonstrations, and positioning, followed by rigorous break-out sessions. Additional information can be found at www.praxis-workshop.com/ .
+We invite submissions to the 1st Workshop on The Semantic Web in Practice: Tools and Pedagogy (PRAXIS), co-located with the 19th International Semantic Web Conference (ISWC) that will take place in Athens, Greece, November 2-6, 2020. PRAXIS is a full-day workshop consisting of short presentations or reports on experiential teaching results, tool demonstrations and positioning, followed by break-out sessions.
 
 The overarching purpose of this workshop is to start a community that is focused on the collection, development, and curation of pedagogical best practices, and the tools that support them, for the Semantic Web and Knowledge Graph communities. More concretely, we wish to:
 
-* Find effective ways of expanding the expertise and knowledge of:
+* Find effective ways to expand the expertise and knowledge of:
     * Developers already in industry
     * Domain experts
     * Students
@@ -11,7 +11,7 @@ The overarching purpose of this workshop is to start a community that is focused
 * Establish the importance of Semantic Web technologies 
     * Incorporating them into a technology stack or workflow
 
-Submissions should pertain to the topics below, with the intent to meet the goals, as above.
+Submissions should pertain to the topics below, with the intent to meet the goals specified above.
 
 ### Topics
 * Academia x Pedagogy
@@ -45,7 +45,7 @@ Submissions should pertain to the topics below, with the intent to meet the goal
 Submissions should be formatted as either PDF or HTML and submitted to: https://easychair.org/conferences/?conf=praxis2020 
 
 ### Proceedings
-Submissions will be reviewed by at least three reviewers. While we do not intend to publish through CEUR-WS, we will collect all accepted submissions and provide them as release on the workshop webpage. Further, we will register the release through Zenodo to provide a DOI.
+Submissions will be reviewed by at least three reviewers. While we do not intend to publish through CEUR-WS, we will collect all accepted submissions and make them available on the workshop webpage. Further, we will register submissions through [Zenodo](https://zenodo.org) to provide a DOI.
 
 ### Important Dates
 Submission deadline: July 1, 2020
@@ -54,10 +54,10 @@ Camera-ready version deadline: September 2, 2020
 The workshop will be held on November 2 or 3, 2020
 
 ### Organizers
-Cogan Shimizu (general chair)
-Rafael Gonçalves (chair)
-Juan Sequeda (chair)
-Ruben Verborgh (chair)
+* Cogan Shimizu (general chair)
+* Rafael Gonçalves (chair)
+* Juan Sequeda (chair)
+* Ruben Verborgh (chair)
 
 ### Program Committee
 * Michelle Cheatham
