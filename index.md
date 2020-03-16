@@ -63,7 +63,7 @@ The workshop will be held on November 2 or 3, 2020
 * Michelle Cheatham
 * Oscar Corcho
 * Karl Hammar
-* Raghava Muthjaru
+* Raghava Mutharaju
 * Valentina Anita Carriero
 * Kamruzzaman Sarker
 * Daniel Lupp
