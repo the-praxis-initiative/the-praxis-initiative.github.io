@@ -48,7 +48,7 @@ Submissions should be formatted as either PDF or HTML and submitted to: https://
 Submissions will be reviewed by at least three reviewers. While we do not intend to publish through CEUR-WS, we will collect all accepted submissions and make them available on the workshop webpage. Further, we will register submissions through [Zenodo](https://zenodo.org) to provide a DOI.
 
 ### Important Dates
-Submission deadline: August 10, 2020
+Submission deadline: August 17, 2020
 Notification of Acceptance: September 11, 2020
 Camera-ready version deadline: September 21, 2020
 The workshop will be held on November 2 or 3, 2020
