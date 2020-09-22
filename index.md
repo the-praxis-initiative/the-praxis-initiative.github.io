@@ -31,6 +31,18 @@ Submissions should pertain to the topics below, with the intent to meet the goal
     * Improving Developer Experience (DX)
     * Tool demos, emphasizing usability and approachability
 
+### Programmme 
+Due to the impact of COVID-19 and the virtual format, we have opted to make some small changes to the design and execution of PRAXIS 2020. 
+
+* The workshop will be conducted virtually and synchronously.
+* Reduced to 3 hours.
+* Time and Date TBD, and dependent on timezone decision made by ISWC.
+* The workshop will be conducted un-conference style (https://en.wikipedia.org/wiki/Unconference).
+* The workshop will be hosted through Zoom and run through ISWC's infrastructure.
+* Authors of submissions will be invited to give 5-10 minute lightning talks on their submission, and these submissions will act as seed topics for our un-conference.
+* We intend to brainstorm and discuss tools and education along the dimensions outlined in the description.
+* The results of our brainstorming and discussion, alongside submissions from our authors, will be placed into a GitHub repository and given a Zenodo DOI, per the Proceedings section, below.
+
 ### Submissions
 * Abstracts (max 1 page / 500 words)
 * Reports (max 4 pages)
@@ -58,6 +70,8 @@ The workshop will be held on November 2 or 3, 2020
 * Rafael Gonçalves (chair)
 * Juan Sequeda (chair)
 * Ruben Verborgh (chair)
+
+
 
 ### Program Committee
 * Michelle Cheatham
