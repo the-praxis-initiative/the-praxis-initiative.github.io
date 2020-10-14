@@ -33,7 +33,7 @@ The overarching purpose of this workshop is to start a community that is focused
 Due to the impact of COVID-19 and the virtual format, we have opted to make some small changes to the design and execution of PRAXIS 2020. 
 
 * The workshop will be conducted un-conference style (https://en.wikipedia.org/wiki/Unconference).
-* The workshop will be hosted through Zoom and run through Kansas State University's infrastructure.
+* The workshop will be hosted through Zoom and run through Kansas State University's infrastructure. The connection information will be posted here.
 * Authors of submissions will be invited to give 5-10 minute lightning talks on their submission, and these submissions will act as seed topics for our un-conference.
 
 We are currently soliciting topics for our discussions from any participant. Please fill out the [form](https://forms.gle/VeY52qKFsxWFY4zM9)!
