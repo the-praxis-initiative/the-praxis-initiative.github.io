@@ -1,5 +1,7 @@
 # The Semantic Web in Practice: Tools and Pedagogy
-Welcome to the 1st Workshop on The Semantic Web in Practice: Tools and Pedagogy (PRAXIS), co-located with the 19th International Semantic Web Conference (ISWC) that will take place virtually November 2-6, 2020. PRAXIS is a 3-hour unconference-style workshop. We are currently open to any participants and welcoming any suggestions on topics. Enter your suggestions in the below form!
+Welcome to the 1st Workshop on The Semantic Web in Practice: Tools and Pedagogy (PRAXIS), co-located with the 19th International Semantic Web Conference (ISWC) that will take place virtually November 2-6, 2020. PRAXIS is a 3-hour unconference-style workshop. 
+
+ATTENDANCE: https://ksu.zoom.us/my/coganmshimizu
 
 The overarching purpose of this workshop is to start a community that is focused on the collection, development, and curation of pedagogical best practices, and the tools that support them, for the Semantic Web and Knowledge Graph communities. More concretely, we wish to:
 
