@@ -23,3 +23,7 @@ Tutorial. Co-located with the 2023 ACM Web Conference.
 Talk. Knowledge Graph Conference. [slides](./slides/the-kgc-open-curriculum.pdf).
 * Building an Open Curriculum for Knowledge Graphs (2023)<br>
 Talk. Knowledge Graph Conference. [slides](./slides/).
+
+#### Open Course Materials
+* [Introduction to Knowledge Engineering](https://github.com/kastle-lab/cs7810-intro-to-ke)<br>
+Wright State University
