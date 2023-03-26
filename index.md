@@ -12,7 +12,7 @@ For more information, visit [here](https://the-praxis-initiative.github.io/praxi
 
 ### Building the Perfect Syllabus
 * [Building the Perfect Syllabus]()<br>
-Lightning Talk. 4th United States Semantic Technologies Symbosium. [slides](./slides/)
+Lightning Talk. 4th United States Semantic Technologies Symbosium. [slides](./slides/perfect-syllabus.pdf)
 
 ### Comparative Ontology Engineering
 * [Same Data, Different Models: Choosing an Ontology Modeling Methodology (2023)](https://github.com/the-praxis-initiative/comparative-ontology-modeling)<br>
@@ -20,6 +20,6 @@ Tutorial. Co-located with the 2023 ACM Web Conference.
 
 ### Developing an Open Curriculum
 * Introducing the KGC Open Curriculum (2022)<br>
-Talk. Knowledge Graph Conference. [slides](./slides/).
+Talk. Knowledge Graph Conference. [slides](./slides/the-kgc-open-curriculum.pdf).
 * Building an Open Curriculum for Knowledge Graphs (2023)<br>
 Talk. Knowledge Graph Conference. [slides](./slides/).
