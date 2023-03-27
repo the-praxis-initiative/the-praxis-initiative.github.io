@@ -1,14 +1,15 @@
 # The PRAXIS Initiative
 
-## The PRAXIS Workshop Series
+## Community Series
+For more information, visit [here](https://the-praxis-initiative.github.io/praxis-workshop-series/).
+
 * [The Semantic Web in Practice: Tools and Pedagogy (2020)](./2020)<br>
 Unconference. Co-located with the 19th International Semantic Web Conference.
 * [The Praxis of Teaching Knowledge Graphs (2023)](./2023)<br>
 Masterclass. Co-located with the Knowledge Graph Conference.
 
-For more information, visit [here](https://the-praxis-initiative.github.io/praxis-workshop-series/).
 
-## Current Initiatives
+## Education Initiatives
 
 ### Building the (Knowledge Engineering) Perfect Syllabus
 * [Building the Perfect Syllabus]()<br>
@@ -28,6 +29,6 @@ Talk. Knowledge Graph Conference. [slides](./slides/).
 * [Introduction to Knowledge Engineering](https://github.com/kastle-lab/cs7810-intro-to-ke)<br>
 Wright State University
 
-#### Tracking the Cutting Edge
+### Tracking the Cutting Edge
 * Research Topics in the State of the Art (2023)<br>
 Masterclass. Knowledge Graph Conference.
