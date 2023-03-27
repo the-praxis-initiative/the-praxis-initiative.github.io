@@ -10,7 +10,7 @@ For more information, visit [here](https://the-praxis-initiative.github.io/praxi
 
 ## Current Initiatives
 
-### Building the Perfect Syllabus
+### Building the (Knowledge Engineering) Perfect Syllabus
 * [Building the Perfect Syllabus]()<br>
 Lightning Talk. 4th United States Semantic Technologies Symbosium. [slides](./slides/perfect-syllabus.pdf)
 
@@ -27,3 +27,7 @@ Talk. Knowledge Graph Conference. [slides](./slides/).
 #### Open Course Materials
 * [Introduction to Knowledge Engineering](https://github.com/kastle-lab/cs7810-intro-to-ke)<br>
 Wright State University
+
+#### Tracking the Cutting Edge
+* Research Topics in the State of the Art (2023)<br>
+Masterclass. Knowledge Graph Conference.
