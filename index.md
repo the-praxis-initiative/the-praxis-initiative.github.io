@@ -15,7 +15,7 @@ For more information, visit [here](https://the-praxis-initiative.github.io/praxi
 Lightning Talk. 4th United States Semantic Technologies Symbosium. [slides](./slides/perfect-syllabus.pdf)
 
 ### Comparative Ontology Engineering
-* [Same Data, Different Models: Choosing an Ontology Modeling Methodology (2023)](https://github.com/the-praxis-initiative/comparative-ontology-modeling)<br>
+* [Same Data, Different Models: Choosing an Ontology Modeling Methodology (2023)](https://the-praxis-initiative.github.io/comparative-ontology-modeling/)<br>
 Tutorial. Co-located with the 2023 ACM Web Conference.
 
 ### Developing an Open Curriculum
