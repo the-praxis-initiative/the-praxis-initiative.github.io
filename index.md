@@ -18,7 +18,7 @@ Lightning Talk. 4th United States Semantic Technologies Symbosium. [slides](./sl
 ### Comparative Ontology Engineering
 * [Same Data, Different Models: Choosing an Ontology Modeling Methodology (2023)](https://the-praxis-initiative.github.io/comparative-ontology-modeling/)<br>
 Tutorial. Co-located with the 2023 ACM Web Conference.
-* [Same Data, Different Models: Choosing an Ontology Modeling Methodology (2026)](https://github.com/the-praxis-initiative/comparative-ontology-modeling/tree/sddm26)<br>
+* [Same Data, Different Models: Choosing an Ontology Modeling Methodology (2026)](https://github.com/the-praxis-initiative/comparative-ontology-modeling/)<br>
 Tutorial. Co-located with the 2026 European Semantic  Web Conference.
 
 
